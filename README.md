@@ -1,18 +1,33 @@
 # CanadaGames
 
-PROG1322 ASP.NET Core Athlete Management System
+.NET 3.1 Core MVC Athlete Management App
 
-## Testing Credentials
+## Installation
 
-Use the following account for local testing:
+Install .NET 3.1 Core Runtime. Open via Visual Studios
+
+```powershell
+cd C:\Users\%user%\Documents\GitHub\MedicalOffice
+dotnet run --project .\MedicalOffice\MedicalOffice.csproj --launch-profile MedicalOffice
+```
 
 - **Email:** admin1@outlook.com
 - **Password:** password
 
-## Visuals
+## Usage
 
-<img src="cg1.png">
+https://youtu.be/Jo53WA9WhPo
 
-<img src="cg2.png">
+<details>
+    <summary>View Screenshots</summary>
+    <img src="cg1.png">
+    <img src="cg2.png">
+    <img src="cg3.png">
+</details>
 
-<img src="cg3.png">
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
